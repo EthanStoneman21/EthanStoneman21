@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I enjoy the gym and gaming
 
 # Languages / Skills Learned
--C / C++ / Python / Computer Hardware and Digital Design / Embedded Systems / Javascript / HTML and CSS / Flutter and Dart
+C / C++ / Python / Computer Hardware and Digital Design / Embedded Systems / Javascript / HTML and CSS / Flutter and Dart
